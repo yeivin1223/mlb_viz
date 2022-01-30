@@ -36,7 +36,6 @@ STATCAST_VALID_DATES = {
     2020: (date(2020, 7, 23), date(2020, 10, 27))
 }
 
-
 app.layout = html.Div([
     html.H1('MLB Batter’s Left-Center-Right Field Percentage', style = {'textAlign': 'center'}),
 
